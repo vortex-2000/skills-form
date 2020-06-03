@@ -1,0 +1,45 @@
+h1{
+color:red;
+font-size: 40px;
+text-align: center;
+}
+
+
+body{
+    background-image: url(https://i.pinimg.com/originals/aa/c4/38/aac438c8db56888b01c503e049bd71c8.jpg);
+    background-repeat: no-repeat;background-size: cover;font-family: 'Poppins';
+    }
+
+.container{
+     background-color: black;
+     padding: 10px 100px  10px  50px ;
+     margin: 50px 425px 50px 500px ;
+     box-shadow: 5px 5px 50px gray;
+     border-radius: 10px;
+     color:white;
+     opacity: 0.8;
+    }
+
+.kk input {
+    border-radius: 10px;
+    width: 300px;
+    margin: 15px 0px 30px 0px;
+    border: 1px solid red;
+    height:30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px  red;
+    text-align: center;
+}
+
+.btn{
+    font-weight: bold;
+    font-size: 20px;
+    background-color: gray;
+    margin: 20px 50px ;
+    width:200px;
+    height:40px;
+    box-shadow: 5px 5px 5px red;
+    border-radius: 10px;
+}
+
+
